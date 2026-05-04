@@ -1,0 +1,18 @@
+{
+    "server": {
+        "host": "0.0.0.0",
+        "port": 8080,
+        "threads": 4
+    },
+    "log": {
+        "level": "INFO",
+        "file": "logs/dune.log"
+    },
+    "database": {
+        "host": "127.0.0.1",
+        "port": 3306,
+        "user": "root",
+        "password": "",
+        "dbname": "dune"
+    }
+}
